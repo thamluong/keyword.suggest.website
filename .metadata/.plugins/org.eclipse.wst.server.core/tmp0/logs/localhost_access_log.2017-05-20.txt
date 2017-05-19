@@ -1,0 +1,14 @@
+127.0.0.1 - - [20/May/2017:00:48:51 +0700] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [20/May/2017:00:52:09 +0700] "GET /rest.employee.manager.client HTTP/1.1" 404 1050
+0:0:0:0:0:0:0:1 - - [20/May/2017:00:52:10 +0700] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [20/May/2017:00:52:16 +0700] "GET /rest.employee.manager.client/ HTTP/1.1" 404 1052
+127.0.0.1 - - [20/May/2017:00:53:14 +0700] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [20/May/2017:00:53:33 +0700] "GET /rest.employee.manager.client/ HTTP/1.1" 200 4696
+0:0:0:0:0:0:0:1 - - [20/May/2017:00:53:34 +0700] "GET /rest.employee.manager.client/resources/css/index.css;jsessionid=6E0667C19FFF4AB71298ACED8D417EF6 HTTP/1.1" 200 505
+0:0:0:0:0:0:0:1 - - [20/May/2017:00:53:34 +0700] "GET /rest.employee.manager.client/resources/js/index.js;jsessionid=6E0667C19FFF4AB71298ACED8D417EF6 HTTP/1.1" 200 3483
+0:0:0:0:0:0:0:1 - - [20/May/2017:00:53:59 +0700] "GET /rest.employee.manager.client/ HTTP/1.1" 200 4696
+0:0:0:0:0:0:0:1 - - [20/May/2017:00:54:00 +0700] "GET /rest.employee.manager.client/resources/css/index.css;jsessionid=5864088D9B270573BD8FA78E7D082095 HTTP/1.1" 200 505
+0:0:0:0:0:0:0:1 - - [20/May/2017:00:54:00 +0700] "GET /rest.employee.manager.client/resources/js/index.js;jsessionid=5864088D9B270573BD8FA78E7D082095 HTTP/1.1" 200 3483
+0:0:0:0:0:0:0:1 - - [20/May/2017:00:54:05 +0700] "GET /rest.employee.manager.client/detail?id=5 HTTP/1.1" 200 1456
+0:0:0:0:0:0:0:1 - - [20/May/2017:00:54:05 +0700] "GET /rest.employee.manager.client/detail?id=5 HTTP/1.1" 200 1456
+0:0:0:0:0:0:0:1 - - [20/May/2017:00:54:05 +0700] "GET /rest.employee.manager.client/resources/img/kakashi.jpg HTTP/1.1" 404 992

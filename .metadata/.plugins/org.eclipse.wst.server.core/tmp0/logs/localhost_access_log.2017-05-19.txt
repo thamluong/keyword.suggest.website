@@ -1,0 +1,16 @@
+127.0.0.1 - - [19/May/2017:21:09:15 +0700] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:09:26 +0700] "GET /keyword.suggest.website/ HTTP/1.1" 200 5567
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:09:27 +0700] "GET /keyword.suggest.website/resources/css/index.css;jsessionid=9ECB136279E78A9056A42FBD2087BF93 HTTP/1.1" 200 514
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:09:28 +0700] "GET /keyword.suggest.website/resources/js/index.js;jsessionid=9ECB136279E78A9056A42FBD2087BF93 HTTP/1.1" 200 88
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:09:29 +0700] "GET /keyword.suggest.website/resources/css/application.css;jsessionid=9ECB136279E78A9056A42FBD2087BF93 HTTP/1.1" 200 1665
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:09:32 +0700] "GET /search-keywords/resources/img/logo.png HTTP/1.1" 404 1070
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:09:35 +0700] "GET /keyword.suggest.website/footer HTTP/1.1" 200 1544
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:09:35 +0700] "GET /keyword.suggest.website/header HTTP/1.1" 200 1146
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:10:20 +0700] "GET /keyword.suggest.website/ HTTP/1.1" 200 5567
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:10:21 +0700] "GET /keyword.suggest.website/resources/css/index.css;jsessionid=61CC510F65702122F217A79A9E0540EA HTTP/1.1" 200 514
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:10:21 +0700] "GET /keyword.suggest.website/resources/js/index.js;jsessionid=61CC510F65702122F217A79A9E0540EA HTTP/1.1" 200 88
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:10:21 +0700] "GET /keyword.suggest.website/resources/css/application.css;jsessionid=61CC510F65702122F217A79A9E0540EA HTTP/1.1" 200 1665
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:10:22 +0700] "GET /search-keywords/resources/img/logo.png HTTP/1.1" 404 1070
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:10:22 +0700] "GET /search-keywords/resources/img/logo.png HTTP/1.1" 404 1070
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:10:25 +0700] "GET /keyword.suggest.website/header HTTP/1.1" 200 1146
+0:0:0:0:0:0:0:1 - - [19/May/2017:21:10:25 +0700] "GET /keyword.suggest.website/footer HTTP/1.1" 200 1544

@@ -1,0 +1,27 @@
+package keyword.suggest.website.db.controller;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.ui.ModelMap;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import keyword.suggest.website.db.common.RequestMappingDefine;
+import keyword.suggest.website.db.model.Key;
+import keyword.suggest.website.db.service.KeyService;
+
+public class MainController {
+	@Autowired
+	private KeyService keyService;
+	
+	List<Key> keys = new ArrayList<Key>();
+	
+	@RequestMapping(RequestMappingDefine.HOME)
+	public String home(ModelMap mm) {
+
+		mm.put("keys", keyService.getAllKeys());
+		return "index";
+	}
+
+}

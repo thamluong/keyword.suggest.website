@@ -1,0 +1,5 @@
+package keyword.suggest.website.db.dao;
+
+public class KeyImpl {
+	
+}

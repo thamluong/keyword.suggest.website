@@ -1,0 +1,5 @@
+package keyword.suggest.website.db;
+
+public class Print {
+
+}
