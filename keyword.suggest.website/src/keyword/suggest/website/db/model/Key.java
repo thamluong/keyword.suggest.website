@@ -5,6 +5,12 @@ public class Key {
 	private String name;
 	private String count;
 	
+	public Key(String id, String name, String count) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.count = count;
+	}
 	/**
 	 * @return the id
 	 */

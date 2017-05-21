@@ -8,4 +8,5 @@ public interface KeyService {
 
 	public void check();
 	public List<Key> getAllKeys();
+	public void updateContent(List<Key> list);
 }

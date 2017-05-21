@@ -25,4 +25,9 @@ public class KeyServiceImpl  implements KeyService{
 	public List<Key> getAllKeys(){
 		return keyDao.findAllKeys();
 	}
+	
+	@Override
+	public void updateContent(List<Key> list) {
+		keyDao.updateContent(list);
+	}
 }
